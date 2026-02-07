@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_surrealist_gender_dynamics",
+  "title": "The Ford of Partial People",
+  "tagline": "A scholar must photograph the metaphysical crisis at a haunted ford where gender itself is coming undone.",
+  "target_words": 70000,
+  "actual_words": 75006,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Liminality as Gendered Labor",
+    "The Unfinished Self",
+    "Scottish Surrealism & Folklore",
+    "The Metaphysics of Dissolution"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Peat-Bog Ghost",
+      "words": 3125
+    },
+    {
+      "ch": 2,
+      "title": "The Shimmering Stone",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Map of Frantic Lines",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Road to Glencoe",
+      "words": 3050
+    },
+    {
+      "ch": 5,
+      "title": "The Innkeeper's Warning",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "First Light on the Linne",
+      "words": 3150
+    },
+    {
+      "ch": 7,
+      "title": "The Washerwoman's Silence",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "The First Exposure",
+      "words": 2980
+    },
+    {
+      "ch": 9,
+      "title": "A Figure in the Mist",
+      "words": 3125
+    },
+    {
+      "ch": 10,
+      "title": "The Conversation at the Ford",
+      "words": 3250
+    },
+    {
+      "ch": 11,
+      "title": "Developed in Darkness",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Photograph That Moves",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "Morag's Revelation",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Finch's Library of Anomalies",
+      "words": 3700
+    },
+    {
+      "ch": 15,
+      "title": "The Bealltainn Eve",
+      "words": 3150
+    },
+    {
+      "ch": 16,
+      "title": "The Threshold Opens",
+      "words": 3600
+    },
+    {
+      "ch": 17,
+      "title": "Custodians in Conflict",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "The Solvent of Weeping",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "A Choice of Roles",
+      "words": 3350
+    },
+    {
+      "ch": 20,
+      "title": "The Maybe-Man Speaks",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "Rewriting the Symbol",
+      "words": 3800
+    },
+    {
+      "ch": 22,
+      "title": "The Architecture of a New Bridge",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Ferry Boards Itself",
+      "words": 2980
+    },
+    {
+      "ch": 24,
+      "title": "A Different Kind of Ghost",
+      "words": 3256
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern character encounters a folklore being who is struggling with its own outdated, gendered role.",
+      "Describe a 'liminal space' in your own environment (an alley, a waiting room) and how it might 'shimmer' for a character in emotional flux.",
+      "Create a new 'Partial Person'—a being of unresolved identity—and the unique metaphysical effect their presence causes.",
+      "Draft a letter from Professor Finch to another academic, obliquely warning them about a different unstable symbolic location."
+    ],
+    "technical": [
+      "Build a 'Shimmer Generator'—a visual web tool that applies glitch, overlay, and sound effects to an image to suggest a liminal, perceiving space.",
+      "Create an interactive map of 'Unstable Thresholds' using the novel's concepts, allowing users to add their own locations with descriptions and symbolic tags."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Alasdair Gray",
+      "Leonora Carrington",
+      "Maggie O'Farrell",
+      "David Hume"
+    ]
+  },
+  "cover_prompt": "A spectral scholar, their form shimmering and indistinct, laboriously adjusts a large-format camera on a tripod, aiming it not at the physical landscape but at the shimmering, fractured air above a peat-dark Scottish ford, where half-formed figures of light and shadow wade in a state of perpetual becoming, their genders fluid and unresolved. The scene is a haunted river crossing at twilight, with ancient standing stones covered in luminous lichen lining the bank, and the water itself reflecting not the sky but a swirling, ethereal nebula of conflicting hues, capturing the metaphysical crisis of dissolution. In the atmospheric style of a surrealist like Leonora Carrington blended with the eerie, folkloric sensibility of Scottish painter John Duncan, evoking mystical transformation and symbolic depth. Book cover framing, centered composition with the scholar and their camera as the focal point, viewed from a low, dramatic angle that emphasizes the towering, unstable figures in the ford. Cinematic lighting with a clash of cold, misty moonlight and warm, unnatural phosphorescence from the water, using a palette of deep peat browns, murky greens, ethereal violets, and flashes of unsettling gold. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
