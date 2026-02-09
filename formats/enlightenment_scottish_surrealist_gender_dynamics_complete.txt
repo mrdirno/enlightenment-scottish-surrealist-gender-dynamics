@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The whisky was a peat-bog ghost, haunting the glass. Isla MacLeod held it up to the weak Glasgow light bleeding through the pub window, watching the amber liquid cling to the sides like a confession. It was ten in the morning. The pub, The Hanged Man, smelled of last night’s spilled lager and this morning’s despair, a perfume she was coming to know intimately.
 
@@ -122,7 +124,9 @@ The concept had been planted. The maybe-woman was going to the Ford of the Maybe
 
 She locked her flat, a definitive click in the quiet hall. She was not certain of what she was doing. But she was, for the first time in a long time, in motion.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The train north was a worm of stale air and soft complaint. Isla watched the central belt’s urban clutter give way to the green ache of the Highlands. The map lay open on the tiny table, Finch’s frantic lines superimposed over the calm, authoritative greens and yellows of the Ordnance Survey. His ford was a ghost in the grid, a whisper in the contour lines. It existed in a blank space between two named lochs, a place the mapmakers had deemed unworthy of note.
 
@@ -282,7 +286,9 @@ The sound was a period at the end of a sentence. The first chapter of her old li
 
 She spent the night awake, back against the stone, the knife with her blood on it held tight in her hand. The keening did not return. Only the wind, and the vast, listening silence of the glen, and the terrifying, exhilarating sense that all the layers of the world had just grown thin as gauze.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 Dawn came as a slow dilution of grey. Isla emerged from the bothy stiff and soul-weary, but crackling with a wired, unnatural alertness. The world looked different. Not transformed, but revealed. The grass wasn’t just green; it was a thousand shifting shades between yellow and blue, each blade holding a minute bead of mist-light. The lochan was no longer leaden but a deep, swirling violet-black, like a bruise on the skin of the earth. She could see the shimmer.
 
@@ -360,11 +366,13 @@ The man heard it too. His head snapped towards the sound, upstream on his side o
 
 The keening grew louder. And
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The city’s old quarter smelled of wet stone and forgotten purposes. Leo’s footsteps echoed in the close, a frantic counter-rhythm to the thrumming in his veins. The explorer’s notes, written in a tight, anxious script, had led him here: ‘For corroboration, seek the Silent Chapter, Catheart’s Wynd. Ask for nothing. She will know if you are worth the knowing.’ It was less an address and more a koan, and Leo was in no state for philosophy. He was in a state for answers that didn’t dissolve upon examination, for solid things in a world that had turned to peat-smoke.
 
@@ -516,11 +524,13 @@ He understood Elara’s final warning now. He wasn’t just holding a key. He wa
 
 The compass against his chest gave a single, distinct pulse, like a dying man’s heartbeat. It was not pointing anywhere. It was trembling.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The rain had settled into a fine, persistent mist, the kind that didn’t fall so much as hang in the air, beading on wool and stone alike. Inside The Cracked Spine, the world was reduced to the smell of old paper, damp earth from a potted fern that was losing its fight for life, and the sharp, coppery scent of Leo’s fear. It clung to the back of his throat, a taste more potent than Morag’s whisky.
 
@@ -663,8 +673,7 @@ Her chant broke off in a gasp of surprise. Her eyes, wide and furious and perhap
 Then they fell, not into the shimmering light, but through it, a tangle of limbs and shared momentum. The last thing Leo saw of his world was the bandstand collapsing in a spray of rotten wood, and the tall Harvester at the gate, lowering his hands, his expressionless face tilting in what might have been, against all odds, a faint nod of professional respect.
 
 The world dissolved into a scream of colour and a silence so profound it was a noise in itself.
-
-They landed hard on springy, grey turf. The air was cool, still, and carried the scent of heather and stone. The purple sky was starless, but illuminated by a sourceless, twilight glow. The standing stones formed a loose circle around them, their amber pulses slow and rhythmic, like sleeping hearts.
+  - They landed hard on springy, grey turf. The air was cool, still, and carried the scent of heather and stone. The purple sky was starless, but illuminated by a sourceless, twilight glow. The standing stones formed a loose circle around them, their amber pulses slow and rhythmic, like sleeping hearts.
 
 The gateway winked out behind them, leaving only a faint shimmer in the air that quickly faded.
 
@@ -692,11 +701,13 @@ Elara was already walking, a dark shape against the purple gloom. Leo took a dee
 
 The hook for the next chapter hung in the silent air between them, unspoken: In a place with no maps, with the old rules stripped away, what were they to each other now? And what, in this silent, ancient between-place, was listening to the echo of their footsteps?
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The trees were not trees. They were memories of trees, sketched in charcoal against a sky the colour of a fading bruise, their branches holding globes of cold, green fire. The Glimmerwood. The name was a courtesy. It was a cathedral of sighing shadows and watchful, phosphorescent life. The air tasted of ozone and damp earth, of a world held in a perpetual, indrawn breath.
 
@@ -844,11 +855,13 @@ He turned and began to walk into the deeper gloom. Kael gestured for them to fol
 
 Leo fell into step, Elara a silent presence at his shoulder. The hook from the stones was still there, hanging between them, but it had grown barbs. What were they to each other? A key and a lock. A memory and a tool. But to this old man, to this Council, they were something else entirely: a question to be answered. And in the Glimmerwood, where thought had weight, a question could be a dangerous, living thing.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The safehold was a diagnosis, and the prognosis was grim.
 
@@ -903,8 +916,7 @@ Alistair sighed, a sound like pages crumbling in an old book. “The Council is 
 It was a dismissal. A postponement. The hook that had been set between Leo and Elara, the question of what they were to each other, now had another barb: what were they to these people? A specimen. A variable.
 
 Garvin stood. “I’ll have quarters prepared. Guarded quarters.”
-
-The quarters were a cell, politely named. A small room carved high in a smaller fungus, reachable by a single, narrow bridge. A slit window looked out over the eerie, lantern-stippled village below. The door had no lock, but Kael was posted outside, his presence a reminder that some cages are made of expectation and duty.
+  - The quarters were a cell, politely named. A small room carved high in a smaller fungus, reachable by a single, narrow bridge. A slit window looked out over the eerie, lantern-stippled village below. The door had no lock, but Kael was posted outside, his presence a reminder that some cages are made of expectation and duty.
 
 “Some sanctuary,” Leo muttered, dropping the worn leather satchel that contained Eamon Vale’s journal onto a low cot.
 
@@ -980,8 +992,7 @@ She released him, stepped back. Kael coughed, his face a mask of fury and stunne
 Elara was already at the window, slipping through the slit with an eel’s grace. Leo followed, the stone scraping against his shoulders. Outside, the world was a vertical maze of fungal architecture and deep, whispering darkness. He looked back, once, at Kael, who remained on his knees, a sentinel defeated not by force, but by the sheer, untenable logic of their choice.
 
 Then Leo turned, gripped the rough, petrified flesh of the mushroom stem, and followed the shadow down into the gloom.
-
-The argument in the Council chamber was a low, tense vibration in the stone. Garvin’s gravel voice rose in sharp rebuttal to Rhys’s insistent tenor.
+  - The argument in the Council chamber was a low, tense vibration in the stone. Garvin’s gravel voice rose in sharp rebuttal to Rhys’s insistent tenor.
 
 “—cannot risk the variable becoming a vector! We contain, we observe!”
 
@@ -1002,8 +1013,7 @@ Garvin was on his feet, barking orders. Anya was already moving, pulling vials o
 His milky gaze swept the room, finding the empty space where Kael should have been standing guard outside. He understood. The knot had tightened, but in a way none of them had predicted.
 
 “The key,” he said. “They are here for the key.”
-
-The world below the safehold was a throat of darkness. Leo and Elara moved through it, a desperate, silent partnership. The compass needle was a persistent tug in Leo’s hand, leading them through gullies of soft, phosphorescent moss and over ridges of brittle, dead coral that might have been ancient fungus. The Glimmerwood here was sickly, its whispers frayed with static. Things scuttled in the blackness, but did not approach. It was as if they, too, were holding their breath.
+  - The world below the safehold was a throat of darkness. Leo and Elara moved through it, a desperate, silent partnership. The compass needle was a persistent tug in Leo’s hand, leading them through gullies of soft, phosphorescent moss and over ridges of brittle, dead coral that might have been ancient fungus. The Glimmerwood here was sickly, its whispers frayed with static. Things scuttled in the blackness, but did not approach. It was as if they, too, were holding their breath.
 
 They found a stream, black water running over stones that gleamed like obsidian, and followed it, using its sound to mask their passage. After an hour of brutal, scrambling progress, Elara held up a fist. They froze.
 
@@ -1099,11 +1109,13 @@ And in the silence of his stone mushroom chamber, he whispered a word that was b
 
 “Sacrifice.”
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The silence after the sacrifice was a physical thing. It was the absence of a scream, the hollow where a memory had been. Elara did not fall. She simply… diminished. She stood before the starless phantom, her dagger held not as a weapon but as a chisel, and Leo felt the hook between them—that taut, painful, vital line—not snap, but dissolve. It unravelled from his sternum like a stitch pulled from old cloth, leaving a draft where certainty had been.
 
@@ -1122,8 +1134,7 @@ She blinked, slow, as if translating a difficult text. “A… birthday. I think
 She left him standing there, the ghost of peat-smoke and confession long gone from the air, replaced by the metallic tang of a door that had never been meant to open. Morag’s words, from a world and a lifetime ago, echoed in the new hollow inside him. Concepts are never late. They just are, or they aren’t. Elara, the woman of shadow and sharp edges, was. The girl who remembered the honey cake, was not.
 
 The Foundry door opened not with a groan, but with a hiss of equalizing pressure. Beyond it lay not a furnace, nor a workshop, but a landscape of arrested decay.
-
-Scene 1
+  - Scene 1
 
 They called it the Silent Wastes, but the name was a courtesy, a euphemism for a place that had forgotten the very concept of sound. It was the Foundry’s antechamber, a vast, domed cavern where the machinery of the world had, ages past, ground to a halt. Not broken. Drained.
 
@@ -1176,8 +1187,7 @@ The lead Harvester tilted its head. The motion was almost pitying. “Tear it do
 It released Elara, who staggered back, her wrist marked with a perfect, geometric bruise. The Harvester spread its articulated hands, a preacher before a congregation of dead machines.
 
 “We wish to administer it.”
-
-Scene 2
+  - Scene 2
 
 They were taken not deeper into the Wastes, but to its edge, where the obsidian pillars gave way to the raw, iron wall of the Foundry’s inner tower. A portal irised open, revealing a chamber that was a brutal fusion of organic and mechanical. Tendrils of copper and silver snaked across the walls, pulsing with a slow, captured light. In the centre, suspended in a column of amber fluid, was a heart.
 
@@ -1208,8 +1218,7 @@ The Harvester turned to its subordinates. “Separate them. The variable to the 
 Rough hands seized Leo. He fought, but his magic was sludge, his strength pathetic. He saw Elara meet his eyes as he was dragged away. In her gaze, he looked for fear, for solidarity, for the ghost of the woman who had walked into a phantom for him.
 
 He found only a cool, analytical assessment. She was weighing options, calculating survival vectors. The hook was gone. He was, in that moment, just another piece on the board.
-
-Scene 3
+  - Scene 3
 
 The pit was not a dungeon. It was a smooth, ovoid chamber deep beneath the tower, lined with a substance that felt like frozen smoke. The moment Leo was thrown into its centre, the entrance sealed without a seam. The light came from the walls themselves—a dull, grey glow that revealed nothing and hid nothing.
 
@@ -1266,8 +1275,7 @@ One by one, the echoes faded. The last was the false Elara. Her pitying smile tu
 The grey light in the chamber brightened, then shifted. The walls, which had seemed solid, now revealed themselves to be layered, translucent. And through them, below him, he saw something else.
 
 The pit had a false floor. Beneath the layer of frozen smoke was another chamber. And in its centre, on a pedestal of woven, living roots of silver and stone, pulsed a light that was neither blue nor grey, but the deep, vibrant crimson of a heart that had never been gilded, never been tamed.
-
-Scene 4
+  - Scene 4
 
 The floor did not open. It accepted. As Leo’s conviction settled, the substance beneath his feet lost its solidity. He did not fall so much as sink, the frozen smoke flowing around him like thick water, then parting. He descended into the true heart of the Foundry.
 
@@ -1307,11 +1315,13 @@ He whispered the word, a sound like a page turning, a story refusing its end.
 
 “Convergence.”
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The Heartstone was not a stone. It was a captured sigh, a held breath given crystalline form. It hung in the centre of the final chamber, a teardrop of absolute clarity suspended in a cradle of fractured, bone-white mechanisms. It pulsed, not with light, but with a soft, sub-aural pressure that vibrated in Leo’s teeth and filled the hollows of his bones. It was the opposite of the Archive’s dry whisper; this was a wet, vital hum, the sound of a world’s root-system dreaming.
 
@@ -1429,11 +1439,13 @@ And Leo, the variable now attuned to the world’s own heartbeat, understood the
 
 But with the very life it was trying to restore.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The silence after the word shatter was the kind that lived between lightning and thunder. It was a held breath, a drawn blade, a universe of intent compressed into a single, sterile syllable.
 
@@ -1492,8 +1504,7 @@ The lead Harvester, its systems re-booting, scanned the empty space where Kael h
 “Run,” Elara whispered, her voice hollow with a loss her logical mind could not yet process.
 
 They ran.
-
-The tower, denied its heart, was dying around them. Corridors they had crept through hours before now yawned into void or snapped shut like rotten teeth. The air was thick with the taste of spent magic and the Harvester’s ozone-stench. Leo ran with the Stone a live coal against his ribs, its light beating in time with his hammering heart. Elara led, her mind a cold, clear scalpel cutting through the chaos, finding the path of least collapse.
+  - The tower, denied its heart, was dying around them. Corridors they had crept through hours before now yawned into void or snapped shut like rotten teeth. The air was thick with the taste of spent magic and the Harvester’s ozone-stench. Leo ran with the Stone a live coal against his ribs, its light beating in time with his hammering heart. Elara led, her mind a cold, clear scalpel cutting through the chaos, finding the path of least collapse.
 
 They burst from a side-entrance into a world coming undone.
 
@@ -1573,11 +1584,13 @@ They fell not through, but into the tear.
 
 And the world, denied its final, sterile silence, screamed after them.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The silence they fell into was not a silence at all. It was the scream of the world, stretched thin and turned inside out. It was the sound of a seam ripping, not through cloth, but through the fabric of what was. Leo MacLeod felt it in his teeth, in the marrow of his bones holding the blazing Heartstone. He felt Elara’s hand in his, a cold, logical weight gone limp. They were not falling through space, but through consequence.
 
@@ -1714,11 +1727,13 @@ The last thing he saw was Elara’s hand reaching out for the empty air where he
 
 In the renewed silence of the Glimmerwood, under the new-old stars, the Archivist began to weep. And her tears, falling on the dark, dormant Heartstone, were the first thing in her perfect, logical life that she made no attempt to catalogue.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- CHAPTER 27
+CHAPTER 27
 
 The whisky was a peat-bog ghost, haunting the glass. Isla MacLeod held it up to the weak Glasgow light bleeding through the pub window, watching the amber liquid cling to the sides like a confession. It was ten in the morning. The pub, The Hanged Man, smelled of last night’s spilled lager and this morning’s despair, a perfume she knew more intimately now than her own skin.
 
@@ -1791,8 +1806,7 @@ Leo’s gaze grew distant again, but warmly so. “She held the world together w
 The rest of the day was a quiet, seismic shift. Leo slept for twelve hours in the pub’s back room, while Isla guarded the door and Morag kept the world at bay. When he woke, the mundane reality of his old life began to reassert its claim, but it no longer fit. He saw the museum not as a repository of dead things, but as a sleeping garden of potential thin places. He saw the city not as a grey grid, but as a living body with scars of old magic and new wonder.
 
 A week later, the summons came. Not by post or phone, but by a flicker of the aurora borealis in the reflection of his kettle, forming an address and a time.
-
-The storage room of the McEwan Museum was exactly as he had left it, and yet utterly transformed. The dust still danced in the slants of afternoon light, but now each mote seemed to carry a tiny, prismatic charge. The artifacts no longer slept. The Benin bronze head hummed a low, ancestral song. The shattered Grecian urn seemed to hold its breath, not in sorrow, but in anticipation. A healthy, gentle glow—not the sickly pulse of before, but a steady, golden light—emanated from the collection as a whole.
+  - The storage room of the McEwan Museum was exactly as he had left it, and yet utterly transformed. The dust still danced in the slants of afternoon light, but now each mote seemed to carry a tiny, prismatic charge. The artifacts no longer slept. The Benin bronze head hummed a low, ancestral song. The shattered Grecian urn seemed to hold its breath, not in sorrow, but in anticipation. A healthy, gentle glow—not the sickly pulse of before, but a steady, golden light—emanated from the collection as a whole.
 
 In the center of the room, where the world had torn, a permanent, stable patch of shimmering, aurora-like light hung in the air. It was a window, or perhaps a door, about the size of a full-length mirror. Through it, Leo could see the Glimmerwood in perpetual, gentle twilight. A familiar, silver-leafed sapling was growing just on the other side.
 
@@ -1827,8 +1841,7 @@ He nodded, looking from the shimmering portal to the compass in his hand. The ne
 From the portal, another figure emerged. Tall, with bark-like skin and eyes of molten green, carrying a staff of woven light. A Glimmerwood guardian. Then another, and another. Wardens and Watchers, male and female and neither, stepping into the human world with cautious wonder. They did not bow to Leo. They nodded, as colleagues. As co-stewards.
 
 The storage room was no longer a closet for the dead. It was an embassy.
-
-The resolution was not a loud thing. It was not a battle won with a sword. It was a quiet, pervasive change, like the turning of a season.
+  - The resolution was not a loud thing. It was not a battle won with a sword. It was a quiet, pervasive change, like the turning of a season.
 
 Leo kept his small flat, but he also kept the back room of The Hanged Man. It became his unofficial headquarters. Morag, it turned out, had always been a kind of folk-Warden, tending the thin place that was her pub without having the words for it. Now, with the aubergine back in her roots and a new glint in her eye, she became his lieutenant. She handled the “mundane weird”—the confused drunk who’d seen too much, the curious cat that had brought back a glowing feather—with a practicality that was itself a kind of magic.
 
@@ -1850,11 +1863,13 @@ And in the silent, steady glow of the artifacts in a museum storage room, and in
 
 FINAL.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The rain was not water, but a kind of liquid memory. It fell on Glasgow in a relentless, grey whisper, each drop carrying the echo of a thousand other rains, on stone, on steel, on skin. Leo MacLeod stood under the awning of a shuttered newsagent, watching it sheet across the empty expanse of Kelvingrove Park. The compass in his pocket was a silent, warm weight, a second heartbeat. He had taken to walking the city at dawn, tracing the perimeter of his quiet kingdom—the museum, the pub, the Botanic Gardens, the southern edge of the moors. A circuit of calm. A keeper’s rounds.
 
@@ -1873,8 +1888,7 @@ A dream. A vision.
 The hook in his mind was subtle, but undeniable. This was a marker. A signpost left by something that knew how to navigate the interstitial spaces, and knew, perhaps, that a new keeper walked them. It was not a threat. It was an introduction. The thought chilled him more than outright menace would have.
 
 He placed the glove in a plastic bag from his pocket, sealed it, and slipped it into his satchel. The act felt absurdly normal, a curator preserving an exhibit. But the rituals of his old life were the armature for the new. He stood, his gaze sweeping the park. Nothing moved but the rain and the distant, hunched figure of a jogger. The thin place had settled, its fever broken for now. But the infection, he sensed, remained.
-
-Isla’s flat smelled of lemon polish and gun oil. The two scents, domestic and deadly, had become the perfume of her redemption. She was at the small table, the components of Morag’s old Webley revolver laid out on a soft cloth like a surgeon’s instruments. Her hands moved with a methodical, reverent precision that was new. The frantic energy that had once driven her—from library to archive to pub to despair—had been refined into focus. She was cleaning the weapon not because it was dirty, but because the ritual grounded her. It was a fixed point.
+  - Isla’s flat smelled of lemon polish and gun oil. The two scents, domestic and deadly, had become the perfume of her redemption. She was at the small table, the components of Morag’s old Webley revolver laid out on a soft cloth like a surgeon’s instruments. Her hands moved with a methodical, reverent precision that was new. The frantic energy that had once driven her—from library to archive to pub to despair—had been refined into focus. She was cleaning the weapon not because it was dirty, but because the ritual grounded her. It was a fixed point.
 
 Leo’s key turned in the lock. She didn’t look up. “You’re back early. The city’s thresholds behaving themselves?”
 
@@ -1907,8 +1921,7 @@ Leo smiled, a faint thing. “You want to call in a scholarly debt.”
 He nodded. The logic was sound. It was her kind of logic—direct, strategic, unburdened by the awe that still occasionally stole his breath. He was the feeler of the Veil, the listener at the threshold. She was the analyst, the archivist of anomalies. Their partnership worked because their instincts were different, but complementary. He would have watched the glove for nights, sensing its resonance. She would immediately seek its provenance.
 
 “Write the letter,” he said. “Use the good paper. The pressed-bone stuff he likes.”
-
-Professor Alistair Finch’s study was a controlled catastrophe of paper. Towers of journals leaned like Pisa; open books lay sprawled on every surface, their spines cracked, annotated with furious marginalia in three different colours of ink. The air was thick with the smell of dust, pipe tobacco gone cold, and the faint, sweet-sour tang of ageing sherry. He was a tall man, folded into a wingback chair that seemed to be consuming him, his cardigan a faded tapestry of moth-holes and old stains.
+  - Professor Alistair Finch’s study was a controlled catastrophe of paper. Towers of journals leaned like Pisa; open books lay sprawled on every surface, their spines cracked, annotated with furious marginalia in three different colours of ink. The air was thick with the smell of dust, pipe tobacco gone cold, and the faint, sweet-sour tang of ageing sherry. He was a tall man, folded into a wingback chair that seemed to be consuming him, his cardigan a faded tapestry of moth-holes and old stains.
 
 He held Isla’s cream paper letter between thumb and forefinger as if it were a rare specimen. “Aisling,” he murmured, his voice a dry rustle. “You understand the term’s weight, of course. Not a mere dream. A specific vision, often prophetic, granted by a woman of the aes sídhe. A summons, or a warning. That it is attached to an object… that is classical. Deeply classical.”
 
@@ -1935,8 +1948,7 @@ Leo felt a cold trickle down his spine that had nothing to do with the draft in 
 “And if we ignore it?” Leo asked.
 
 Finch removed his spectacles, polishing them on his cardigan. “Then the negotiations may continue without you. Terms may be set on your behalf. I wouldn’t recommend it.” He looked at them both, his old eyes suddenly sharp and clear. “You have formed a dyad. A stable, balanced unit of power. That is rare. It makes you strong. It also makes you a target. For alliances, or for dismantling. Be careful what ledger you sign your names in.”
-
-The thin place in the Botanic Gardens was not the grandest, but it was the most articulate. It lived in the old Kibble Palace, the Victorian glasshouse where humid air clung to the skin and the sound of dripping water was a constant, quiet percussion. It was in the shadow of a giant Australian tree fern, where the light fell in dappled, green-gold sheets that seemed to have weight. Here, the Veil was not a scar, but a whisper, a constant, soft exchange between the damp earth smell of this world and the crystalline, floral scent of the other.
+  - The thin place in the Botanic Gardens was not the grandest, but it was the most articulate. It lived in the old Kibble Palace, the Victorian glasshouse where humid air clung to the skin and the sound of dripping water was a constant, quiet percussion. It was in the shadow of a giant Australian tree fern, where the light fell in dappled, green-gold sheets that seemed to have weight. Here, the Veil was not a scar, but a whisper, a constant, soft exchange between the damp earth smell of this world and the crystalline, floral scent of the other.
 
 At twilight, the glasshouse was closed to the public. Isla and Leo stood by the fern, the only sound the plink of water from a nearby rockery. In Isla’s hand was their token: not one object, but two. A single, well-worn page torn from one of Leo’s old library ledgers, on which he had drawn, in precise, measured lines, a map of the four stable thin places in Glasgow. And paperclipped to it, a single brass cartridge case from Morag’s Webley, fired long ago, cleaned until it shone.
 
@@ -2018,11 +2030,13 @@ Outside the Kibble Palace, under a streetlamp that flickered with a steady, ordi
 
 The negotiation was not over. The auditors were still watching. And the full moon was rising, a silent, ticking clock in the sky.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The rain was a fine, persistent mist, a dampener of spirits and a solvent for resolve. It turned the sandstone of the university to a weeping, liverish red, and made the cobbles slick with a phosphorescent sheen under the sodium streetlamps. Isla walked with a purpose that was more armour than intent, her boots striking the wet pavement with a martial rhythm. Leo kept pace beside her, a half-step behind, his silence a dense, heavy thing. The compass in his pocket was a dead weight, its needle twitching in a slow, lazy circle as if stirred by a tide they could no longer feel.
 
@@ -2298,11 +2312,13 @@ The ledger was closed. The debt was paid.
 
 But the auditors, it seemed, were still watching. The negotiation was over. The audit, however, had just begun.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The fire in the grate at The Hanged Man was a sullen, resentful thing. It consumed the peat bricks with a grudging, smoky flicker, casting more shadow than light. The heat it offered was a thin and miserly veil against the deeper cold that had taken root in Isla MacLeod’s bones.
 
@@ -2450,11 +2466,13 @@ But the woman in the green shoes was not just watching.
 
 She was waiting. And she had exquisite taste.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The emerald velvet in the charity shop window was a vulgar echo. A cheap, moth-nipped imitation of the supervisor’s sumptuous green, but its presence was a punctuation mark in the grey sentence of the street. Isla stared at it, the cold between her shoulder blades a precise, academic pain. A hypothesis was forming, not in words, but in a visceral understanding of aesthetic language. The supervisor did not merely wear green. She curated it. She seeded it into the periphery as a signature, a taunt written in texture and hue.
 
@@ -2537,8 +2555,7 @@ Finch went very still. “The Carta is a theoretical construct. A folio of pure 
 Isla took the needle from Byrne’s offered hand. It was colder than ice, a cold that seeped into her bones and made the hollow within her ache in sympathy. It felt alive, and hungry. “Why help us?”
 
 Byrne looked at the safe where his ledger lay. “I have heard my father’s voice. It was a perfect payment. But perfection… it is a sterile country. I find I miss the noise. The mess. The uneven stitches.” He met her eyes. “And I am curious. I have made the shoes for the end of stories. I should like to see what happens when a story refuses to end.”
-
-The rain had hardened into a persistent, needling downpour by the time they returned to the university. The Gothic spires of the main building speared the gloomy twilight, a fortress of known things. Inside, the air was warm and still, thick with the smell of old paper and dust.
+  - The rain had hardened into a persistent, needling downpour by the time they returned to the university. The Gothic spires of the main building speared the gloomy twilight, a fortress of known things. Inside, the air was warm and still, thick with the smell of old paper and dust.
 
 Finch led them through the grand hall, past the marble stare of long-dead principals, to a discreet oak door marked Special Collections – By Appointment Only. His emeritus key card bypassed the electronic lock with a soft beep.
 
@@ -2618,11 +2635,13 @@ But the hook was set. The audit was not a closed ledger. It was an open dialogue
 
 The Salon of Finalities had just extended a new invitation. And the RSVP was written in the cold, hungry point of a needle, and the terrifying weight of a map that led not to a place, but to a precipice of their own making.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The map was a living, breathing accusation. It lay on the scarred oak table in the back room of The Hanged Man, its vellum surface faintly misting with each of Isla’s exhales. The ink—a concoction of oak gall, ground lodestone, and something Leo had called ‘moon-ash’—moved. Not much. A slow, capillary creep along the lines of force that underlay the city, a subcutaneous pulse. It was a map of Glasgow’s unseen ligaments, and in its centre, a void. A negative space shaped like the supervisor’s Salon of Finalities, a cartographic silence that swallowed the ink that ventured near its edges.
 
@@ -2827,11 +2846,13 @@ Like a heartbeat.
 
 Like an invitation to a deeper, darker precipice.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The map in her pocket was a second heart, beating a counter-rhythm to her own frantic pulse. It was not a comfort. It was a demand. The void at its centre, the Salon’s own curated absence, had become a black star, pulling at her. Isla ran, her boots whispering over the marble that was no longer cold but fever-warm, as if the Salon were alive with a sickly, institutional heat.
 
@@ -3039,11 +3060,13 @@ She turned her gaze towards the retreating back of Isla MacLeod, a figure now gl
 
 But for the first time in eternity, it sounded less like a statement of fact, and more like a hope.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The centre of the Salon of Finality was not a place, but a process. A slow, cold digestion. Isla walked towards it, the soles of her boots making no sound on the marble that was now the colour of a fading bruise. The void-light she carried was not an illumination; it was an exposure. It did not show things as they were, but as they had been interrupted. The polished cases lining the aisles gleamed with a sickly, hesitant sheen. Within them, the curated endings—the knight’s last breath, the city’s final stone, the love letter’s unread signature—stirred. Not with life, but with the memory of motion. A suspended animation was thawing into a terrible, unresolved present participle.
 
@@ -3095,7 +3118,7 @@ Isla took the stylus. It was heavier than it looked, dense with intent. She look
 
 She used it.
 
-Leaning over the table, she began to write. Not in the margins. Not as a correction. She wrote directly over the black, tar-like deletions. She wrote with the void-light that now infused the instrument, a silver-black ink that did not obscure, but converted. Where the Curator had written Sentimental, Isla wrote  Felt. Where Derivative was scrawled, she inscribed  Inherited. Over Structurally unsound, she layered  Built to withstand. She wrote not in sentences, but in pulses. In breaths. She wrote the memory of Morag’s aubergine hair and battle-cloth. She wrote the taste of peat-bog ghost whisky at ten in the morning. She wrote the weight of the geata stone in her pocket, and the sound of a man who was a concept laughing softly in a dusty office.
+Leaning over the table, she began to write. Not in the margins. Not as a correction. She wrote directly over the black, tar-like deletions. She wrote with the void-light that now infused the instrument, a silver-black ink that did not obscure, but converted. Where the Curator had written Sentimental, Isla wrote * Felt. Where Derivative was scrawled, she inscribed  Inherited. Over Structurally unsound, she layered  Built to withstand. She wrote not in sentences, but in pulses. In breaths. She wrote the memory of Morag’s aubergine hair and battle-cloth. She wrote the taste of peat-bog ghost whisky at ten in the morning. She wrote the weight of the geata* stone in her pocket, and the sound of a man who was a concept laughing softly in a dusty office.
 
 She was not repairing her thesis. She was fortifying it. She was grafting the living, uncurated details of her journey—the very details the Curator would discard as clutter—back into its bones. She was making it specific. She was making it hers.
 
@@ -3156,8 +3179,7 @@ It would not come out.
 The Curator’s gaze drifted to the doorway through which Isla had disappeared. The vow, the curse, the promise, died on her lips. All that was left was the terrifying, unresolved question, now grown too loud to blink away. It echoed in the silent, sterile room, in the humming of the lights, in the very marrow of her polished bones.
 
 What if I am wrong?
-
-The main gallery was different. The whisper had become a murmur. The aisles were no longer straight. They curved, subtly, as if around an unseen gravity. Exhibits were not quite as they had been. The knight’s final breath now seemed to hitch, as if on the verge of a second word. The city’s last stone had a hairline fracture, from which a tiny, stubborn shoot of something green and impossible was trying to emerge.
+  - The main gallery was different. The whisper had become a murmur. The aisles were no longer straight. They curved, subtly, as if around an unseen gravity. Exhibits were not quite as they had been. The knight’s final breath now seemed to hitch, as if on the verge of a second word. The city’s last stone had a hairline fracture, from which a tiny, stubborn shoot of something green and impossible was trying to emerge.
 
 Isla paid them no mind. Her own thread was a compass needle, pulling her not towards the grand entrance, but deeper into the heart of the museum, towards a wing the Curator’s map had labelled Restricted: Proto-Narratives & Unrealized Potential.
 
@@ -3237,11 +3259,13 @@ She took a step forward, off the path and onto the heather, towards the pool, to
 
 Behind her, the oak door, the boundary between the curated and the possible, began slowly, silently, to swing shut.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The heather was not a carpet. It was a conspiracy. Each sprig, purple-black in the gloaming, hooked at Isla’s ankles with the tenacity of a living question, trying to root her to the spot. The air here was different. It did not have the curated, archival stillness of the Garden, nor the damp, diesel-soaked breath of her Glasgow. It tasted of cold water and crushed green things, of peat-smoke and a profound, listening silence. It was the air of a place that had never been written down.
 
@@ -3379,11 +3403,13 @@ Her hand, the one that had caught the living tear, trembled. It moved towards a 
 
 The hook for the next chapter was not in the moor, nor in the tower. It was in the terrifying, exquisite tremor in the Curator’s wrist, hovering between the prison of the perfect ending and the abyss of an authentic beginning.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The light on the horizon was not a single point, but a constellation of low, golden embers scattered across the moor’s dark breast. As Isla followed Elspeth’s sure-footed silhouette, the embers resolved into the lit windows of crofts, their panes holding the glow like captured pieces of a kinder sun. The air was a tonic of peat-smoke, damp earth, and the sweet, decaying perfume of bracken. It was the smell of a world that was used, not preserved; lived-in, not curated.
 
@@ -3456,8 +3482,7 @@ It was not graceful. It clattered against the warp threads, and the resulting li
 A soft murmur of approval rippled through the weavers. Elspeth, watching from near the door, gave a single, firm nod.
 
 “Good,” Mairi grunted. “A strong, ugly, honest choice. Now. Do it again.”
-
-In the tower that was not a tower, in the room with a window that was not there, the Curator sat at her desk of polished despair. The drawer was open.
+  - In the tower that was not a tower, in the room with a window that was not there, the Curator sat at her desk of polished despair. The drawer was open.
 
 Before her lay the single, blank, unbound sheet of paper. Its emptiness was a void more terrifying than any of the tragic, completed stories in her ledgers. Those had rules. Symmetry. A predictable, beautiful despair. This had… potential. It was an abyss of could be.
 
@@ -3516,22 +3541,22 @@ She threw it.
 The thread flew true, crossing the darkened warp, reinforcing the gold, adding a new strength to the pattern.
 
 In her tower, the Curator felt the resistance. She saw a new blue thread appear on her page, strengthening the gold, complicating her dark design. Her smile did not waver. It deepened. She dipped her pen into a well of a darker ink, and wrote of a flood.
+  - The hook for the next chapter was not in the chill of the rising glassy wind, nor in the growing warmth of the croft’s fire. It was in the silent, relentless dialogue between two looms. One of wood and wool and living hands, warmed by a hearth. One of paper and ink and desperate will, in a tower of perfect cold. Each pass of a shuttle, each stroke of a pen, was a move in a game where the stakes were the very shape of a soul. The cloth on the loom in the Spindle was growing, a patchwork of peat-brown, gold, and loch-blue, its joins bumpy and strong. The pattern on the Curator’s page was a dark, glittering counterpoint, a thing of terrible, invasive beauty. They were weaving each other now. And the next thread to be chosen—whether by a woman finding her strength in the smell of wool and smoke, or by a woman discovering a terrifying new power in the taste of her own fury—would determine whose reality would finally hold the warp.
 
-The hook for the next chapter was not in the chill of the rising glassy wind, nor in the growing warmth of the croft’s fire. It was in the silent, relentless dialogue between two looms. One of wood and wool and living hands, warmed by a hearth. One of paper and ink and desperate will, in a tower of perfect cold. Each pass of a shuttle, each stroke of a pen, was a move in a game where the stakes were the very shape of a soul. The cloth on the loom in the Spindle was growing, a patchwork of peat-brown, gold, and loch-blue, its joins bumpy and strong. The pattern on the Curator’s page was a dark, glittering counterpoint, a thing of terrible, invasive beauty. They were weaving each other now. And the next thread to be chosen—whether by a woman finding her strength in the smell of wool and smoke, or by a woman discovering a terrifying new power in the taste of her own fury—would determine whose reality would finally hold the warp.
+
 
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The loom was a fortress. The loom was a battleground. Isla MacLeod’s hands, chapped from lye soap and raw wool, moved with a rhythm that was no longer just craft. It was cadence. The deep loch-blue thread, the colour of endurance, had become the weft of her defence, a steady, stubborn beat against the invasive dark. Each pass of the bone shuttle was a breath held, a prayer muttered, a door barred. The cloth growing on the frame was a testament not to beauty, but to resilience; its joins were lumpy, its texture uneven, a topography of stubborn survival.
 
 In the tower, the Curator’s pen was a scalpel. She had written of a flood, and in the Spindle, the glassy wind had howled for three days, bringing a cold rain that seeped through the thickest stone. Isla and Morag had moved the loom away from the window, where the wind shrieked like a thing in pain. The peat fire spat and hissed at the damp. But Isla had woven. She had taken a thread the colour of banked peat-embers, a dull, stubborn red, and woven it alongside the blue. Warmth against the damp, she thought. A hearth against the flood. The pattern absorbed it, the cloth thickened.
 
 Now, the Curator observed the new, fiery strand in her page’s counter-pattern. It was a vulgar colour, a peasant colour. It offended the pristine, glittering darkness of her design. She felt not anger, but a cool, surgical curiosity. The girl was not just resisting; she was innovating. Building. The Curator dipped her pen. She did not write of a new catastrophe. Instead, she wrote of a gift.
-
-The gift arrived with the tinker.
+  - The gift arrived with the tinker.
 
 He appeared at the croft door as the unnatural rain finally ceased, leaving a world washed in a thin, silvered light that felt borrowed from a dream. He was a lean man, all tendons and sharp angles, his face hidden beneath the broad brim of a hat that dripped onto the threshold. His pack, slung over one shoulder, clinked with a sound like distant chimes.
 
@@ -3578,8 +3603,7 @@ Morag let out a long breath. “Well done, girl.”
 Isla didn’t feel like she’d done well. She felt scraped-out, hollow. She had won the point but felt the cost. The rejection of that beauty was a little death. She returned to the loom, to her honest, ugly, strong threads. The rhythm felt heavier now.
 
 In the tower, the Curator received the report from her empty-eyed servant. She was not disappointed. She had expected refusal. The first offer was always refused by the righteous. It was the second, third, fourth offer that eroded principle. The gift had been placed. The seed of desire had been planted. Now, she would let it grow in the dark soil of Isla’s deprivation. She wrote, not of a new threat, but of a deepening silence. A loneliness so profound it would make the memory of that silver thread ache like a phantom limb.
-
-The silence in the Spindle became a physical presence. The wind died. The rain stopped. Even the crackle of the fire seemed muted, swallowed by a thick, woolly quiet. It was the silence of a held breath, of a vacuum. Isla wove, but the clack of the beater sounded solitary, pathetic, a tiny noise in an immense, listening stillness. The colours of her cloth—brown, blue, red—seemed to dull, as if starved of contrast. The lack of the silver was an ache. She began to dream of it, a shimmering path leading away from the loom, away from the croft, into a landscape of cool, perfect light.
+  - The silence in the Spindle became a physical presence. The wind died. The rain stopped. Even the crackle of the fire seemed muted, swallowed by a thick, woolly quiet. It was the silence of a held breath, of a vacuum. Isla wove, but the clack of the beater sounded solitary, pathetic, a tiny noise in an immense, listening stillness. The colours of her cloth—brown, blue, red—seemed to dull, as if starved of contrast. The lack of the silver was an ache. She began to dream of it, a shimmering path leading away from the loom, away from the croft, into a landscape of cool, perfect light.
 
 “She’s isolating you,” Morag said, her voice too loud in the quiet. She was carding wool, the rhythmic scritch-scratch a feeble defiance. “It’s what they do. Cut you off from sound, from sense, until your own mind is the only voice, and it starts to whisper their arguments for them.”
 
@@ -3602,8 +3626,7 @@ It’s not the pearl, a voice in her said—her own voice, shaped by Morag’s g
 With a cry that was swallowed by the silence, she brought her cupped hands down, not to retrieve the pearl, but to sink it. She stirred the water violently until the pearl swirled away into the depths of the barrel. When the water stilled, it was gone. Her heart hammered. She had refused again. But the effort felt Herculean. The pearl’s image was seared behind her eyes.
 
 The Curator, sensing the violent rejection, smiled with genuine pleasure. The struggle was exquisite. The girl was strong. Breaking her would be a masterpiece. She wrote of a memory. A specific memory: the smell of a particular perfume—Fleurs du Mal—on a university corridor. The memory of a betrayal not by a lover, but by a mentor. A small, academic cruelty that had festered. She gave the memory weight, texture, and sent it drifting into the Spindle like a leaf on a still pond.
-
-Isla was weaving a section of peat-brown, trying to anchor herself in the solid, earthy colour, when the memory struck. It was not a thought. It was an ambush.
+  - Isla was weaving a section of peat-brown, trying to anchor herself in the solid, earthy colour, when the memory struck. It was not a thought. It was an ambush.
 
 The smell of Fleurs du Mal—cloying, expensive, out of place in the dusty philosophy department—filled her nostrils. She saw Professor Callahan, her doctoral supervisor, laughing with a visiting professor from Oxford, a man with teeth like a polished graveyard. “Isla’s work is charmingly parochial,” Callahan had said, not knowing she was around the corner. “A feminist rereading of the liminal? It’s a thesis, certainly. But groundbreaking? One must have a broader palette.” The Oxford man had chuckled, a dry, rustling sound. The smell of the perfume had mixed with the smell of their contempt.
 
@@ -3628,8 +3651,7 @@ With a fury that was close to despair, she began to weave with the jaundiced yel
 In the tower, the Curator felt the shift. The memory-thread had been accepted, but not as a flaw. It had been incorporated as a deliberate motif. The girl was learning the deepest lesson: not to reject the dark threads, but to subjugate them. To make them part of the pattern’s strength. A flicker of something that was not fury, but profound annoyance, passed through the Curator’s perfect composure. This was no longer a game of seduction. It was a duel of interpretations.
 
 She set down her pen. She would not write another memory. Instead, she would write a connection. A bridge. She would use the one thread Isla could not resist, the one memory that was not a weapon but a lifeline. She began to write of a smell of peat and old books. Of a voice, dry as parchment, speaking of unseen bridges. She wrote of Professor Alistair Finch.
-
-The third gift was a sound.
+  - The third gift was a sound.
 
 The silence broke not with a crash, but with a whisper. It was the faint, rhythmic scratch of a pen on paper. Isla, dozing by the hearth, jerked awake. Morag was already standing, a carding comb held like a weapon.
 
@@ -3668,14 +3690,15 @@ In her tower, the Curator watched the new pattern emerge on her page. The dark, 
 She looked at her page, at the beautiful, terrible story she had composed. Then she looked at the final, untouched well of ink on her desk. It was not black, but a colourless, viscous fluid that reflected nothing. It was the ink of erasure. Of unwriting. The ultimate counter-move. To not add a dark thread, but to dissolve a light one. To not attack the weaver, but to vanish a fundamental thread from her warp.
 
 A slow, frigid smile touched her lips. The duel of interpretations was over. It was time to change the nature of the game. She dipped her pen into the colourless well. She would not write a new sentence. She would carefully, precisely, blot one out.
+  - The hook for the next chapter was not in the profound silence that now felt like peace, nor in the solid, growing weight of the cloth on the loom. It was in the empty space on the Curator’s page where a word used to be. It was in the sudden, inexplicable gap in Isla’s memory as she wove—a gap where the smell of her mother’s hair, the specific scent of heather and lanolin that was the very first thread of her being, had simply ceased to exist. The battle for the tapestry had reached a stalemate of strength. Now, the war would move to a more terrifying frontier: the war for what had always been true. The Curator had stopped trying to add to the story. She had begun, with meticulous care, to subtract.
 
-The hook for the next chapter was not in the profound silence that now felt like peace, nor in the solid, growing weight of the cloth on the loom. It was in the empty space on the Curator’s page where a word used to be. It was in the sudden, inexplicable gap in Isla’s memory as she wove—a gap where the smell of her mother’s hair, the specific scent of heather and lanolin that was the very first thread of her being, had simply ceased to exist. The battle for the tapestry had reached a stalemate of strength. Now, the war would move to a more terrifying frontier: the war for what had always been true. The Curator had stopped trying to add to the story. She had begun, with meticulous care, to subtract.
+
 
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The cloth on the loom was a continent. It had weight, a geography of ridges and valleys formed by the tight-packed weft, a climate held in the humidity of the wool. Isla’s hands moved across it, not as a weaver’s tools, but as a surveyor’s instruments, taking a bearing on a landscape she was still learning to name. The profound silence that had followed the integration of the Curator’s dark thread was not empty. It was dense, like the air before a thunderstorm that never breaks. It was the silence of a held breath.
 
@@ -3710,8 +3733,7 @@ She returned to the loom. The cloth, which moments before had felt like a triump
 Her hands trembled as she took up the shuttle again. She would not stop. Stopping was surrender. But she had to weave differently now. She had to weave against the erosion.
 
 She began a new section, not with a memory, but with the absence of one. She used a thread of a peculiar, pale grey, the colour of fog or amnesia. She wove it in a broken, stuttering pattern, a visual representation of the gap where her mother’s scent should be. It was a negative space given positive form. It was a scar in the tapestry. She did not try to fill it with something else. She let the emptiness be the pattern. She was no longer just recording her history. She was cartographing the holes that were being shot through it.
-
-In her tower, the Curator watched the pale, gaping scar appear on Isla’s tapestry. She felt a flicker of annoyance, a sharp pinprick in her glacial composure. This was not the expected response. The expected response was confusion, then disorientation, then a frantic, pathetic attempt to re-create the lost memory, which would only result in a weak, derivative facsimile—a forgery of feeling. The weaver’s cloth should have begun to look desperate, incoherent.
+  - In her tower, the Curator watched the pale, gaping scar appear on Isla’s tapestry. She felt a flicker of annoyance, a sharp pinprick in her glacial composure. This was not the expected response. The expected response was confusion, then disorientation, then a frantic, pathetic attempt to re-create the lost memory, which would only result in a weak, derivative facsimile—a forgery of feeling. The weaver’s cloth should have begun to look desperate, incoherent.
 
 Instead, the girl was weaving the void itself.
 
@@ -3730,8 +3752,7 @@ She bent, slowly, to retrieve the shuttle. Her body felt heavy, borrowed. The le
 Isla’s fear crystallised into a cold, hard rage. It was a quiet rage, the kind that settles in the bones. She would not let her life be reduced to a palimpsest where her own truths were scrubbed away to make room for the Curator’s sterile, controlling narrative. If the Curator was deleting clauses, she would write in the margins. If the Curator was burning the library, she would become the living library.
 
 She did not try to re-weave the lost motive for her academic life. Instead, she took a thread of a defiant, bloody crimson. She wove a new pattern, right over the grey, amnesiac patch. It was a pattern of questions. A series of angular, interrupted shapes that asked “why?” without answering. It was the visual representation of doubt, of a self interrogating its own missing foundations. It was not a restoration. It was a rebellion. She was using the loom not to recreate what was lost, but to document the act of loss itself. Her tapestry was becoming a record of the siege.
-
-The Curator observed the crimson questions bloom on the page. Her annoyance solidified into a cold, professional respect. The girl had spirit. She was not merely enduring the unwriting; she was annotating it. She was turning her own disintegration into a subject of study. This was… unprecedented. And dangerous.
+  - The Curator observed the crimson questions bloom on the page. Her annoyance solidified into a cold, professional respect. The girl had spirit. She was not merely enduring the unwriting; she was annotating it. She was turning her own disintegration into a subject of study. This was… unprecedented. And dangerous.
 
 The dialogue had become a vicious cycle. The Curator erased. Isla wove the erasure. The Curator’s act of control became the very subject matter of Isla’s resistance. The more the Curator tried to simplify the narrative, the more complex and meta-textual Isla’s tapestry became. The weaver was no longer just telling her story. She was telling the story of her story being stolen. She had internalised the lens, turned it inward, and was now weaving the dynamics of the power struggle itself.
 
@@ -3763,11 +3784,13 @@ This was the seed of destruction, planted deep in the fertile dark of the “all
 
 The hook for the final chapter was not in a looming threat or a gathering storm. It was in the quiet, empty hearth of Isla’s own spirit. It was in the way she looked at the shuttle in her hand, not as a weapon or a voice, but as a simple, pointless tool. The Curator had won the war for the past. She had rewritten Isla’s origins. Now, Isla had to face the ultimate question: can a self, stripped of the myth that forged it, find a new reason to fight? Can a woman, her history edited into placidity, rediscover a voice that is not a reaction to violation, but a creation born of something else? The battle was over. The war of will was beginning. And Isla MacLeod had just been disarmed of her deepest, most personal why.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The whisky was a peat-bog ghost, haunting the glass. Isla MacLeod held it up to the weak Glasgow light bleeding through the pub window, watching the amber liquid cling to the sides like a confession. It was ten in the morning. The pub, The Hanged Man, smelled of last night’s spilled lager and this morning’s despair, a perfume she was coming to know intimately.
 
