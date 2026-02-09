@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The whisky was a peat-bog ghost, haunting the glass. Isla MacLeod held it up to the weak Glasgow light bleeding through the pub window, watching the amber liquid cling to the sides like a confession. It was ten in the morning. The pub, *The Hanged Man*, smelled of last night’s spilled lager and this morning’s despair, a perfume she was coming to know intimately.
@@ -121,6 +123,8 @@ She got up, made tea, and watched the night fade. When the first grey light touc
 The concept had been planted. The maybe-woman was going to the Ford of the Maybe-People.
 
 She locked her flat, a definitive click in the quiet hall. She was not certain of what she was doing. But she was, for the first time in a long time, in motion.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -281,6 +285,8 @@ She took the camera. Her hands steadied as she wound the film to the next frame.
 The sound was a period at the end of a sentence. The first chapter of her old life was closed. She was in the story now, up to her neck. And the water, she knew, was much, much deeper than she had ever imagined.
 
 She spent the night awake, back against the stone, the knife with her blood on it held tight in her hand. The keening did not return. Only the wind, and the vast, listening silence of the glen, and the terrifying, exhilarating sense that all the layers of the world had just grown thin as gauze.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
